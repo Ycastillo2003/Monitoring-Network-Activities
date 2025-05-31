@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bbe17ea7-de8e-4c3a-9cfd-f43f8c5d7f52)
+![image](https://github.com/user-attachments/assets/3fdef66c-e375-4fc8-bc8c-5c6fd5f4df9a)
 
 
 <h1>Deploying Azure Virtual Machines and Installing WireShark</h1>.
