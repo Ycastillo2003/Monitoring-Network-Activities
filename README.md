@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/ae6b813c-71bf-45cb-9cc7-eba246c26694)
 
 
 <h1>Deploying Azure Virtual Machines and Examining the traffic between them</h1>
