@@ -1,6 +1,6 @@
 
 
-<h1>Understanding NSGs and Monitoring Traffic Between Azure VMs</h1>
+<h1>Deploying Azure Virtual Machines and Examining the traffic between them</h1>
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
