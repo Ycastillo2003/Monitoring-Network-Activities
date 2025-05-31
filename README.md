@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/bbe17ea7-de8e-4c3a-9cfd-f43f8c5d7f52)
 
 
-<h1>Deploying Azure Virtual Machines and Examining the traffic between them</h1>
+<h1>Deploying Azure Virtual Machines and Installing WireShark</h1>
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
@@ -33,3 +33,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/user-attachments/assets/4a38bfbb-dc23-4df7-be4c-b0b515583bc9)
 
 - Using RDP to connect to the Windows 10 VM.
+
+![image](https://github.com/user-attachments/assets/28b52768-fe95-4948-8a2c-3bcfa7529d2b) ![image](https://github.com/user-attachments/assets/81f84c91-b567-4413-9126-5c4c1150684e)
+
+- Downloading and opening Wireshark on the Windows 10 VM 
+
+
+
