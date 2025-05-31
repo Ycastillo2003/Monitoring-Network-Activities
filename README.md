@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/3fdef66c-e375-4fc8-bc8c-5c6fd5f4df9a)
-
+![image](https://github.com/user-attachments/assets/fbfd40da-ad3f-4f55-b45d-381dfdd99786)
 
 <h1>Deploying Azure Virtual Machines and Installing WireShark</h1>.
 In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
