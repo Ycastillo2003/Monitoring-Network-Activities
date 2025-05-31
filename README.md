@@ -25,6 +25,9 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 ![image](https://github.com/user-attachments/assets/06566c56-fc0f-4494-9956-363ce4de3322) ![image](https://github.com/user-attachments/assets/a67da10f-e0af-4a54-a58a-585f57695315)
 
 
-- Creating Resource group and virtual network in azure.
+- Creating Resource group and virtual network in Azure.
+
+![image](https://github.com/user-attachments/assets/15ed1220-c98e-4d82-94ae-93012b42c522) ![image](https://github.com/user-attachments/assets/cbbdda88-497b-4d73-95be-4be17c1f0e5c)
 
 
+- Creating windows 10 VM and Ubuntu(linux) VM in Azure.
