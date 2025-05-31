@@ -36,7 +36,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/user-attachments/assets/28b52768-fe95-4948-8a2c-3bcfa7529d2b) ![image](https://github.com/user-attachments/assets/81f84c91-b567-4413-9126-5c4c1150684e)
 
-- Downloading and opening Wireshark on the Windows 10 VM 
+- Downloading and opening Wireshark on the Windows 10 VM.
 
 
 
