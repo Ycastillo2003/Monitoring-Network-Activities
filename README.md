@@ -31,4 +31,4 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![image](https://github.com/user-attachments/assets/4a38bfbb-dc23-4df7-be4c-b0b515583bc9)
 
-- Using RDP to connect to the windows 10 vm.
+- Using RDP to connect to the Windows 10 VM.
